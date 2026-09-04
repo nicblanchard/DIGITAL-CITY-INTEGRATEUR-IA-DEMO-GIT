@@ -3,3 +3,6 @@ def add():
 
 def sub():
     pass
+
+def mult():
+    pass
