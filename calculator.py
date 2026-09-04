@@ -6,3 +6,6 @@ def sub():
 
 def mult():
     pass
+
+def div():
+    pass
