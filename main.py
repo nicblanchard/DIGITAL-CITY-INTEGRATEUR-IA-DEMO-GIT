@@ -17,3 +17,6 @@ def correction_main1():
 # commentaire2
 def patch():
     return True
+
+def remote_example1():
+    return True
