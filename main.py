@@ -10,3 +10,10 @@ def dev_avance():
 
 def main_avance():
     return "Main avance"
+
+def correction_main1():
+    return True
+
+# commentaire2
+def patch():
+    return True
