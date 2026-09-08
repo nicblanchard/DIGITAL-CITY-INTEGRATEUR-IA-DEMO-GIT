@@ -15,6 +15,8 @@ def ajout_conflit_dev():
     return False
 
 def correction_main1():
+    print('Good Bye')
+    # Old conflit ici
     print('Probleme')
     return True
 
