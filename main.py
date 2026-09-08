@@ -11,11 +11,16 @@ def dev_avance():
 def main_avance():
     return "Main avance"
 
+def ajout_conflit_dev():
+    return False
+
 def correction_main1():
+    print('Hello')
     return True
 
 # commentaire2
 def patch():
+    print('World!')
     return True
 
 def remote_example1():
